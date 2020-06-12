@@ -1,0 +1,7 @@
+/home/jackson/CLionProjects/untitled1/build/CMakeFiles/rebuild_cache.dir
+/home/jackson/CLionProjects/untitled1/build/CMakeFiles/edit_cache.dir
+/home/jackson/CLionProjects/untitled1/build/src/CMakeFiles/rebuild_cache.dir
+/home/jackson/CLionProjects/untitled1/build/src/CMakeFiles/proxy.dir
+/home/jackson/CLionProjects/untitled1/build/src/CMakeFiles/edit_cache.dir
+/home/jackson/CLionProjects/untitled1/build/src/CMakeFiles/client.dir
+/home/jackson/CLionProjects/untitled1/build/src/CMakeFiles/server.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/server.dir/server/server.c.o  -o server  -Wl,-rpath,/usr/local/lib /usr/local/lib/libtls.so /usr/local/lib/libssl.so /usr/local/lib/libcrypto.so 

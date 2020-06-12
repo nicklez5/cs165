@@ -1,0 +1,7 @@
+/home/jackson/Downloads/clion-2020.1.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/jackson/CLionProjects/untitled1
+ROOT DIR: /home/jackson/CLionProjects/untitled1/extern/libressl_install
+ROOT HINTS AND PATHS: HINTS;/home/jackson/CLionProjects/untitled1/extern/libressl_install;ENV;LIBRESSL_ROOT_DIR;PATHS;/usr/local/
+INCLUDE DIR: /usr/local/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jackson/CLionProjects/untitled1/cmake-build-debug

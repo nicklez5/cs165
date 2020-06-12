@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../extern/libressl_install/include/tls.h
+basetsd.h
+-
+sys/types.h
+-
+stddef.h
+-
+stdint.h
+-
+
+/home/jackson/CLionProjects/untitled1/src/main.c
+tls.h
+-
+stdio.h
+-
+

@@ -1,0 +1,7 @@
+/home/jackson/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jackson/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jackson/CLionProjects/untitled1/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/home/jackson/CLionProjects/untitled1/cmake-build-debug/src/CMakeFiles/proxy.dir
+/home/jackson/CLionProjects/untitled1/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/home/jackson/CLionProjects/untitled1/cmake-build-debug/src/CMakeFiles/client.dir
+/home/jackson/CLionProjects/untitled1/cmake-build-debug/src/CMakeFiles/server.dir

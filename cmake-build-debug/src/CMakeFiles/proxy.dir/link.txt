@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/proxy.dir/proxy/proxy.c.o CMakeFiles/proxy.dir/proxy/bloom.c.o  -o proxy  -Wl,-rpath,/usr/local/lib /usr/local/lib/libtls.so /usr/local/lib/libssl.so /usr/local/lib/libcrypto.so 
